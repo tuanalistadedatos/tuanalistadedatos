@@ -23,16 +23,16 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 
 ## 💼 What I Enjoy Working On
 
-1. 📈 **[Economic Trends Analysis](#)**  
+1. 📈 **Economic Trends Analysis**  
    Exploring global GDP, inflation, and employment trends using datasets from the World Bank and IMF.
 
-2. 🗳️ **[Political Trends and Public Opinion Analysis](#)**  
+2. 🗳️ **Political Trends and Public Opinion Analysis**  
    Using sentiment analysis and survey data to uncover patterns in public opinion and political discourse.  
 
-3. 🌍 **[Social Impact of Global Events](#)**  
+3. 🌍 **Social Impact of Global Events]**  
    Visualizing and analyzing the societal effects of events like COVID-19, climate change, and migration trends.
 
-4. 🔮 **[Economic and Social Data Dashboards](#)**  
+4. 🔮 **Economic and Social Data Dashboards]**  
    Building interactive dashboards to simplify complex datasets and track real-time developments.
 
 ---
