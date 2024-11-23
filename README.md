@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 
 - 💌 Email: [victorghgdata@gmail.com](mailto:victorghgdata@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/victorgarciaherasdata/](https://www.linkedin.com/in/victorgarciaherasdata/)
-- 🐦 Twitter: [@tuanalistadedatos](https://www.instagram.com/tuanalistadedatos/)
+<a href="https://www.instagram.com/tuanalistadedatos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ---
 
