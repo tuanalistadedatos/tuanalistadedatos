@@ -1,7 +1,5 @@
 ![cabecera](https://github.com/user-attachments/assets/8e15b228-6017-4876-95ac-528844bbe5dc)
 
-# HI, I'M VÍCTOR 👋😁
-
 <h1 align="Center">  HI! I'M VÍCTOR &#128075 &#128513</h1>
 
 Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passionate about understanding the world through numbers and sharing insights with others.
