@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 
 ## 🛠️ My Tools!
 
-![pngwing com](https://github.com/user-attachments/assets/1d6464b6-a8b6-403e-af49-aa62e5aefc5c =100x100)
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
