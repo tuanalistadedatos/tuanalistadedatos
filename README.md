@@ -1,6 +1,6 @@
 ![cabecera](https://github.com/user-attachments/assets/8e15b228-6017-4876-95ac-528844bbe5dc)
 
-# Hi, I'm Víctor (TU ANALISTA DE DATOS) 👋😁
+# HI, I'M VÍCTOR 👋😁
 
 Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passionate about understanding the world through numbers and sharing insights with others.
 
