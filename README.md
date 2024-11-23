@@ -2,6 +2,8 @@
 
 # HI, I'M VÍCTOR 👋😁
 
+<h1 align="Center">  HI! I'M VÍCTOR &#128075 &#128513</h1>
+
 Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passionate about understanding the world through numbers and sharing insights with others.
 
 ---
@@ -19,7 +21,7 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Gretl](https://upload.wikimedia.org/wikipedia/commons/3/3e/Gretl_logo.png)
+ 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -28,6 +30,7 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
 - **Programming Languages:** Python, R, SQL  
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
