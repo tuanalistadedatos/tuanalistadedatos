@@ -21,17 +21,20 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 
 ---
 
-## 💡 Featured Projects
+## 💼 What I Enjoy Working On
 
-1. 📈 **[Global Economic Trends Analysis](#)**  
-   A project exploring GDP and inflation changes across countries using World Bank data.
+1. 📈 **[Economic Trends Analysis](#)**  
+   Exploring global GDP, inflation, and employment trends using datasets from the World Bank and IMF.
 
-2. 🗺️ **[Consumer Behavior Visualization](#)**  
-   An interactive dashboard showcasing the impact of COVID-19 on consumption patterns.
+2. 🗳️ **[Political Trends and Public Opinion Analysis](#)**  
+   Using sentiment analysis and survey data to uncover patterns in public opinion and political discourse.  
 
-3. 🔮 **[Financial Market Prediction](#)**  
-   Basic models to forecast stock prices using time series analysis.
-https://www.linkedin.com/in/victorgarciaherasdata/
+3. 🌍 **[Social Impact of Global Events](#)**  
+   Visualizing and analyzing the societal effects of events like COVID-19, climate change, and migration trends.
+
+4. 🔮 **[Economic and Social Data Dashboards](#)**  
+   Building interactive dashboards to simplify complex datasets and track real-time developments.
+
 ---
 
 ## 🌱 Currently Learning
