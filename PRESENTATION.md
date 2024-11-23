@@ -1,4 +1,4 @@
-# Hi, I'm Víctor (TU ANALISTA DE DATOS) 👋
+# Hi, I'm Víctor (TU ANALISTA DE DATOS) 👋😁
 
 Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passionate about understanding the world through numbers and sharing insights with others.
 
