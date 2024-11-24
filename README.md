@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passion
 # 🧑‍💻 About Me
 
 - 🎓 Economist with experience in quantitative analysis and statistical modeling.  
-- 📊 I specialize in **data visualization**, **predictive analytics**, and **economic trends**.  
+- 💡 I am working on a **new challenge** of information dissemination with data on **politics**, **economy**, **society**, etc.
 - 🌍 Passionate about explaining current events through data as a hobby.  
 
 ---
