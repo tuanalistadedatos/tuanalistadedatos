@@ -56,5 +56,3 @@ I hold a degree in ***Economics*** from the Complutense University of Madrid wit
 <a href="https://github.com/iCharlesZ">
    <img src="https://komarev.com/ghpvc/?username=tuanalistadedatos">
 </a>
-
-[![](https://visitcount.itsvg.in/api?id=victor&icon=0&color=0)](https://visitcount.itsvg.in)
