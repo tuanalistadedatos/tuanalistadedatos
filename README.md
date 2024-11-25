@@ -2,7 +2,9 @@
 
 <h1 align="Center">  HELLOOO! I'M VÍCTOR &#128075 &#128513</h1>
 
-Welcome to my GitHub profile! I'm an **economist** and **data analyst**, passionate about understanding the world through numbers and sharing insights with others.
+Welcome to my GitHub profile!
+
+I hold a degree in **Economics** from the Complutense University of Madrid with a specialization in **Data Analysis**. The technological world is transforming our lives, which is why I believe that combining finance with data analysis is theperfect mix to boost the results of any company. I have a clear goal in mind... To improve the quality of life for every individual.
 
 ---
 
