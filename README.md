@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I hold a degree in <u> **Economics** </u> from the Complutense University of Madrid with a specialization in **Data Analysis**. The technological world is transforming our lives, which is why I believe that combining finance with data analysis is theperfect mix to boost the results of any company. I have a clear goal in mind... To improve the quality of life for every individual.
+I hold a degree in ***Economics*** from the Complutense University of Madrid with a specialization in ***Data Analysis***. The technological world is transforming our lives, which is why I believe that combining finance with data analysis is theperfect mix to boost the results of any company. I have a clear goal in mind... To improve the quality of life for every individual.
 
 ---
 
